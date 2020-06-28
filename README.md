@@ -12,7 +12,7 @@ http://rulifun.cn/vue-mail
 ### 使用
 克隆或下载到本地：
 ```
-git clone https://github.com/weihomechen/vue-mail-front.git
+git clone https://github.com/maybe0209/vue-mail.git
 ```
 进入项目，安装依赖包：
 ```
