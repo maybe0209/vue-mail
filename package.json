@@ -13,7 +13,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "axios": "0.15.3",
+    "axios": "0.18.1",
     "codemirror": "5.25.2",
     "dropzone": "4.3.0",
     "echarts": "3.4.0",
